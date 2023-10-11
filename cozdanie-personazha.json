@@ -28,7 +28,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 300000,
@@ -54,7 +62,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 400000,
@@ -80,7 +96,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 0,
@@ -94,7 +118,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><a href=\"https://www.youtube.com/watch?v=QozAA67mxMY\">Посмотреть</a> или <a href=\"https://boosty.to/laaru/posts/a514d869-15ca-4b4d-ae68-bf5c83571c5e\">прочитать</a>.</p><p>Откройте бланк своего персонажа и поместите его рядом с этим документом. Затем нажимайте оглавление слева (классы, расы и прочее) и переносите мышкой выбранное.</p><h4><strong>Добавление Класса</strong></h4><p>Например, нажмите на Классы, после открытия страницы будет список с классами, перенесите например <em>Барда</em>. Под заголовком класса есть строка, где написано <em>нажмите здесь</em>, если нажать, то в развернувшемся списке видим подклассы, перенесите на чарник выбранный подкласс. Все особенности классов и подклассов в чарник перенесутся автоматически. Лишь экипировка не перенесётся автоматически. Для добавления экипировки можно ещё раз нажать на ваш класс, и из блока с описанием перенести мышкой на бланк вашего персонажа выбранные предметы.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_1.webp\" width=\"700\" /><h4><strong>Добавление Расы</strong></h4><p>Тоже самое и с расами. Обратите внимание, что есть две колонки Рас: фиксированные и вариативные. Источники рас в скобках.</p><p>Фиксированные — это привычные расы, где одна <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">определённая</span></span> характеристика +2, а другая <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">определённая</span></span> +1. Например @UUID[Compendium.laaru-dnd5-hw.races.NOBkuxLYQGcdtoAJ]{Лесной эльф} это всегда Ловкость +2, а Мудрость +1.</p><p>Вариативные — по большей части обновлённые и пересмотренные расы. Что в них хорошо — можно самостоятельно выбрать, либо любую характеристику +2, а любую +1, либо любые три характеристики +1.</p><p>При добавлении расы вам надо будет самостоятельно изменить характеристики, а также добавить особенности расы из блока с описанием этих особенностей. Переносимые особенности <em><strong>Выделены жирным курсивом.</strong></em></p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_2.webp\" width=\"700\" /><h4><strong>Выбор Происхождения</strong></h4><p>Происхождение (предыстория) даёт умение в двух навыках. Можно воспользоваться любым из доступных Происхождений, и точно так же перенести выбранное на бланк персонажа.</p><p>Происхождения разбиты по источникам, чтобы отобразить список, нажмите на строку, где написано <em>Нажмите здесь</em>… В строке с любым происхождением для удобства в скобках написно, в каких навыках это Происхождение даёт умение.</p><p>Имейте ввиду, что Происхождение через формулу Эффекта добавляет умение в навыках, и, если будут сложности с улучшением навыков (например удвоить умение), то перейдите в чарнике во вкладку Эффекты и отключите, либо отредактируйте эффект от Происхождения.</p><p>В каждом (почти) Происхождении даётся возможность пробросить по таблице Свойства личности, Идеалы, Узы, Изъян. Для этого нажмите в открывшейся таблице бросок, а затем \"закликиванием\" строки выделите её, которая вас устроила скопируйте выделенное через Ctrl+C и вставьте в нужное поле чарника через Ctrl+V.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_3.webp\" width=\"700\" /><h4><strong>Получить Безделушку</strong></h4><p>Как говорится в Книге игрока: <em>Создавая персонажа, вы можете сделать один бросок по таблице «Безделушки» и получить безделушку — простой предмет, окружённый тайной</em>.</p><p>Для этого выберите слева в документе Безделушки, а затем нажмите по той таблице Безделушек, по которой мастер разрешит выбрать. После броска по таблице, результат будет виден в чате. Перенесите из чата в бланк своего персонажа.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_5.webp\" width=\"700\" /><h4><strong>Добавление заклинаний</strong></h4><p>У некоторых классов, таких как Жрец и Друид, заклинания добавляются в автоматическом режиме, однако например Волшебнику придётся время от времени самостоятельно добавлять нужные заклинания. Это можно сделать выбрав особенность класса @UUID[Compendium.laaru-dnd5-hw.classfeatures.gbNo5eVPaqr8IVKL]{Заклинания}, в котором имеются кликабельные кнопки для открытия списка со всеми заклинаниями из модуля, где простым перетаскиванием заклинания в чарник (в раздел Заклинания) можно добавить себе те или иные заклинания (если Заклинание перенести в раздел Снаряжения, то вместо заклинания, там появится Свиток с этим заклинанием).</p><p>Также вы можете в этой журнальной записи выбрать из Оглавления слева — <em>Заклинания</em> и открыть список с заклинаниями нужного класса, и перетащить мышью на свой чарник.</p><h4><strong>Характеристики</strong></h4><p>Осталось дело за малым: начальные характеристики. Если вы доверяете случаю, то просто нажмите [[/roll {4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3}]]{сюда}<span style=\"font-family:inherit\"> (так вы бросите 6 раз по 4 шестигранника, система сложит три самых больших выпавших результата для 6 характеристик) в чате будет большая цифра, но если вы нажмёте в чате выпавшее значение, то развернётся сам бросок, где можно будет увидеть в подробностях (или можете сделать то же самое, но с красивой таблицей, см. следующий подзаголовок). Либо можно воспользоваться <a href=\"https://ttg.club/tools/ability-calc\" title=\"ttg.club\">этим</a> или <a href=\"https://dnd.su/point_buy/\" title=\"dnd.su\">этим</a> сайтом для закупа первоначальных характеристик. Но прежде спросите у мастера, какой способ предпочтительней.</span></p><h4><strong>Панель быстрого доступа</strong></h4><p>Снизу слева экрана есть панель быстрого доступа, она действуют точно так, как функционируют подобные панели в компьютерных играх, то есть на эту панель, в любой слот можно добавить ваше любимое оружие или особенность. Для этого, просто перетащите мышкой это оружие/особенность на любой свободный слот.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_6.webp\" width=\"700\" /><p>Таким образом, во время игры, вам не нужно будет открывать чарник, чтобы использовать ваше любимое оружие или предмет, достаточно нажать на слот на панели. К тому же вы можете использовать цифровые кнопки на вашей клавиатуре, каждый слот соответствует кнопке на клавиатуре. Панель быстрого доступа состоит из нескольких \"страниц\". Переключать эти \"страницы\" можно комбинацией alt+ цифра от 1-5.</p><p>На эту панель можете вот с этой страницы перетащить пару полезных макросов, они перечислены ниже вместе с описанием.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.QxcWcSLTaaJxn6Jl]{Случайные броски характеристик} — если вы хотите получить случайные характеристики для персонажа, то можно сделать это красивой таблицой.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.KTLOn6lyM5oRSBdW]{Заявка} — когда во время игры у вас будет заявка для мастера, то просто нажмите на неё и мастер увидит в чате, что вы хотите что-то сказать.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.74bKUFXbQUUvAXBG]{Свет} — если у вашего персонажа есть факел или лампа, то в тёмных подземельях, вы можете сказать, что ваш персонаж зажигает факел, и нажав на этот макрос, вы сможете быстро выбрать нужный источник света и он тут же применится к токену вашего персонажа.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.I1InAaaZYL0dWxSi]{Конец хода} — если во время боя вы не хотите открывать трекер боя, чтобы закончить свой ход, то нажмите на эту кнопку.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.Jtj9v4r1NxyXclBm]{Справочник} — замечательный <a href=\"https://5e.ruleplaying.com/\">справочник</a> теперь у вас под рукой.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.1dse8TgqL6DvlVjO]{Шепот} — можно отправить приватное сообщение мастеру или любому участнику.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.wjnclTs1tPKsqVGz]{Картинка в чат или шепот} — можно отправить картинку в чат или в виде всплывающего изображения. Находите мемасик в интернете, копируете ссылку на изображение, вставляете, вуаля!</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.oof6xofoZCKTuxK5]{Проверка Внимания} — во время игры мастер может просить бросить проверку Внимания (Восприятия), жмите на эту кнопку.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.7SxKKRJuL9a2h661]{Проверка Проницательности} — то же что и выше, только проверка Проницательности.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.4R57wIDiYc2bJj0u]{Проверка Расследования} — то же что и выше, проверка Расследования.</p><h4><strong>Совет</strong></h4><p>Обратите внимание на <em>Настройку управления</em>, там вы найдёте список горячих кнопок и прочее, что вам пригодится в играх. Что-то, возможно вы захотите поменять под себя.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/Screenshot_7.webp\" width=\"700\" />",
+        "content": "<p><a href=\"https://www.youtube.com/watch?v=QozAA67mxMY\">Посмотреть</a> или <a href=\"https://boosty.to/laaru/posts/a514d869-15ca-4b4d-ae68-bf5c83571c5e\">прочитать</a>.</p><p>Откройте бланк своего персонажа и поместите его рядом с этим документом. Затем нажимайте оглавление слева (классы, расы и прочее) и переносите мышкой выбранное.</p><h4><strong>Добавление Класса</strong></h4><p>Например, нажмите на Классы, после открытия страницы будет список с классами, перенесите например <em>Барда</em>. Под заголовком класса есть строка, где написано <em>нажмите здесь</em>, если нажать, то в развернувшемся списке видим подклассы, перенесите на чарник выбранный подкласс. Все особенности классов и подклассов в чарник перенесутся автоматически. Лишь экипировка не перенесётся автоматически. Для добавления экипировки можно ещё раз нажать на ваш класс, и из блока с описанием перенести мышкой на бланк вашего персонажа выбранные предметы.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_1.webp\" width=\"700\" /><h4><strong>Добавление Расы</strong></h4><p>Тоже самое и с расами. Обратите внимание, что есть две колонки Рас: фиксированные и вариативные. Источники рас в скобках.</p><p>Фиксированные — это привычные расы, где одна <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">определённая</span></span> характеристика +2, а другая <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">определённая</span></span> +1. Например @UUID[Compendium.laaru-dnd5-hw.races.NOBkuxLYQGcdtoAJ]{Лесной эльф} это всегда Ловкость +2, а Мудрость +1.</p><p>Вариативные — по большей части обновлённые и пересмотренные расы. Что в них хорошо — можно самостоятельно выбрать, либо любую характеристику +2, а любую +1, либо любые три характеристики +1.</p><p>При добавлении расы вам надо будет самостоятельно изменить характеристики, а также добавить особенности расы из блока с описанием этих особенностей. Переносимые особенности <em><strong>Выделены жирным курсивом.</strong></em></p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_2.webp\" width=\"700\" /><h4><strong>Выбор Происхождения</strong></h4><p>Происхождение (предыстория) даёт умение в двух навыках. Можно воспользоваться любым из доступных Происхождений, и точно так же перенести выбранное на бланк персонажа.</p><p>Происхождения разбиты по источникам, чтобы отобразить список, нажмите на строку, где написано <em>Нажмите здесь</em>… В строке с любым происхождением для удобства в скобках написно, в каких навыках это Происхождение даёт умение.</p><p>Имейте ввиду, что Происхождение через формулу Эффекта добавляет умение в навыках, и, если будут сложности с улучшением навыков (например удвоить умение), то перейдите в чарнике во вкладку Эффекты и отключите, либо отредактируйте эффект от Происхождения.</p><p>В каждом (почти) Происхождении даётся возможность пробросить по таблице Свойства личности, Идеалы, Узы, Изъян. Для этого нажмите в открывшейся таблице бросок, а затем \"закликиванием\" строки выделите её, которая вас устроила скопируйте выделенное через Ctrl+C и вставьте в нужное поле чарника через Ctrl+V.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_3.webp\" width=\"700\" /><h4><strong>Получить Безделушку</strong></h4><p>Как говорится в Книге игрока: <em>Создавая персонажа, вы можете сделать один бросок по таблице «Безделушки» и получить безделушку — простой предмет, окружённый тайной</em>.</p><p>Для этого выберите слева в документе Безделушки, а затем нажмите по той таблице Безделушек, по которой мастер разрешит выбрать. После броска по таблице, результат будет виден в чате. Перенесите из чата в бланк своего персонажа.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_5.webp\" width=\"700\" /><h4><strong>Добавление заклинаний</strong></h4><p>У некоторых классов, таких как Жрец и Друид, заклинания добавляются в автоматическом режиме, однако например Волшебнику придётся время от времени самостоятельно добавлять нужные заклинания. Это можно сделать выбрав особенность класса @UUID[Compendium.laaru-dnd5-hw.classfeatures.gbNo5eVPaqr8IVKL]{Заклинания}, в котором имеются кликабельные кнопки для открытия списка со всеми заклинаниями из модуля, где простым перетаскиванием заклинания в чарник (в раздел Заклинания) можно добавить себе те или иные заклинания (если Заклинание перенести в раздел Снаряжения, то вместо заклинания, там появится Свиток с этим заклинанием).</p><p>Также вы можете в этой журнальной записи выбрать из Оглавления слева — <em>Заклинания</em> и открыть список с заклинаниями нужного класса, и перетащить мышью на свой чарник.</p><h4><strong>Характеристики</strong></h4><p>Осталось дело за малым: начальные характеристики. Если вы доверяете случаю, то просто нажмите [[/roll {4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3, 4d6kh3}]]{сюда}<span style=\"font-family:inherit\"> (так вы бросите 6 раз по 4 шестигранника, система сложит три самых больших выпавших результата для 6 характеристик) в чате будет большая цифра, но если вы нажмёте в чате выпавшее значение, то развернётся сам бросок, где можно будет увидеть в подробностях (или можете сделать то же самое, но с красивой таблицей, см. следующий подзаголовок). Либо можно воспользоваться <a href=\"https://ttg.club/tools/ability-calc\" title=\"ttg.club\">этим</a> или <a href=\"https://dnd.su/point_buy/\" title=\"dnd.su\">этим</a> сайтом для закупа первоначальных характеристик. Но прежде спросите у мастера, какой способ предпочтительней.</span></p><h4><strong>Панель быстрого доступа</strong></h4><p>Снизу слева экрана есть панель быстрого доступа, она действуют точно так, как функционируют подобные панели в компьютерных играх, то есть на эту панель, в любой слот можно добавить ваше любимое оружие или особенность. Для этого, просто перетащите мышкой это оружие/особенность на любой свободный слот.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_6.webp\" width=\"700\" /><p>Таким образом, во время игры, вам не нужно будет открывать чарник, чтобы использовать ваше любимое оружие или предмет, достаточно нажать на слот на панели. К тому же вы можете использовать цифровые кнопки на вашей клавиатуре, каждый слот соответствует кнопке на клавиатуре. Панель быстрого доступа состоит из нескольких \"страниц\". Переключать эти \"страницы\" можно комбинацией alt+ цифра от 1-5.</p><p>На эту панель можете вот с этой страницы перетащить пару полезных макросов, они перечислены ниже вместе с описанием.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.QxcWcSLTaaJxn6Jl]{Случайные броски характеристик} — если вы хотите получить случайные характеристики для персонажа, то можно сделать это красивой таблицой.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.KTLOn6lyM5oRSBdW]{Заявка} — когда во время игры у вас будет заявка для мастера, то просто нажмите на неё и мастер увидит в чате, что вы хотите что-то сказать.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.74bKUFXbQUUvAXBG]{Свет} — если у вашего персонажа есть факел или лампа, то в тёмных подземельях, вы можете сказать, что ваш персонаж зажигает факел, и нажав на этот макрос, вы сможете быстро выбрать нужный источник света и он тут же применится к токену вашего персонажа.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.I1InAaaZYL0dWxSi]{Конец хода} — если во время боя вы не хотите открывать трекер боя, чтобы закончить свой ход, то нажмите на эту кнопку.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.Jtj9v4r1NxyXclBm]{Справочник} — замечательный <a href=\"https://5e.ruleplaying.com/\">справочник</a> теперь у вас под рукой.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.1dse8TgqL6DvlVjO]{Шепот} — можно отправить приватное сообщение мастеру или любому участнику.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.wjnclTs1tPKsqVGz]{Картинка в чат или шепот} — можно отправить картинку в чат или в виде всплывающего изображения. Находите мемасик в интернете, копируете ссылку на изображение, вставляете, вуаля!</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.oof6xofoZCKTuxK5]{Проверка Внимания} — во время игры мастер может просить бросить проверку Внимания (Восприятия), жмите на эту кнопку.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.7SxKKRJuL9a2h661]{Проверка Проницательности} — то же что и выше, только проверка Проницательности.</p><p>@UUID[Compendium.laaru-dnd5-hw.macro.4R57wIDiYc2bJj0u]{Проверка Расследования} — то же что и выше, проверка Расследования.</p><h4><strong>Совет</strong></h4><p>Обратите внимание на <em>Настройку управления</em>, там вы найдёте список горячих кнопок и прочее, что вам пригодится в играх. Что-то, возможно вы захотите поменять под себя.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/Screenshot_7.webp\" width=\"700\" />",
         "markdown": ""
       },
       "video": {
@@ -110,6 +134,14 @@
         "core": {
           "sourceId": "JournalEntry.Bn3a7yZSDL3Ebyxh.JournalEntryPage.0IG5ikYNB3fjP3kD"
         }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -136,7 +168,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 600000,
@@ -166,6 +206,14 @@
         "core": {
           "sourceId": "JournalEntry.X0rqakUz9f53vLwv.JournalEntryPage.Y1xiuSKCmOSEWLyX"
         }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -192,7 +240,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 900000,
@@ -206,7 +262,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Бывает так, что при игре через ваш любимый браузер с десятками установленных расширений, игра может лагать и/или выдавать разные неприятные глюки. Поэтому лучше всего установить отдельный клиент для игр.</p><img class=\"noborder\" src=\"https://flc.ruleplaying.com/favicon.svg\" width=\"50\" style=\"float:left\" /><h2>FLC</h2><p></p><p>Автор русского перевода для фаундри — Phenomen создал легковесный клиент для игр в Foundry, скачать его можно по этой ссылке:</p><p><a href=\"https://flc.ruleplaying.com/\"><strong>Foundry Lightweight Client</strong></a></p><p>Приложение очень лёгкое и удобное в пользовании. Под скриншотом можно прочитать официальное описание. Есть версии для Windows и Mac.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/flc.webp\" width=\"600\" /><p>Foundry Lightweight Client (⚡FLC) — это минималистичный клиент для подключения к серверам Foundry на компьютерах с ограниченными ресурсами и слабой производительностью.</p><p>Клиент имеет всё необходимое для работы Foundry и ничего больше. Современные браузеры (Google Chrome, Microsoft Edge, Mozilla Firefox) переполнены огромным количеством трэкеров аналитики и опциональных модулей, не говоря уже о пользовательских расширениях. Запуск Foundry в них является не слишком оптимальным решением при ограниченных ресурсах.</p><p>FLC использует сверх-производительный бэкенд на Rust, написанный с нуля фронтенд на Svelte и браузерную оболочку на основе WebView2, которая и так всегда находится запущенной в виде процесса на Windows 10 и 11. Клиент занимает менее 3mb и потребляет на ~50% меньше RAM, чем Chrome с одной запущенной вкладкой Foundry.</p><p></p>",
+        "content": "<p>Бывает так, что при игре через ваш любимый браузер с десятками установленных расширений, игра может лагать и/или выдавать разные неприятные глюки. Поэтому лучше всего установить отдельный клиент для игр.</p><img class=\"noborder\" src=\"https://flc.ruleplaying.com/favicon.svg\" width=\"50\" style=\"float:left\" /><h2>FLC</h2><p></p><p>Автор русского перевода для фаундри — Phenomen создал легковесный клиент для игр в Foundry, скачать его можно по этой ссылке:</p><p><a href=\"https://flc.ruleplaying.com/\"><strong>Foundry Lightweight Client</strong></a></p><p>Приложение очень лёгкое и удобное в пользовании. Под скриншотом можно прочитать официальное описание. Есть версии для Windows и Mac.</p><img src=\"https://raw.githubusercontent.com/laaruk/images/main/pic/flc.webp\" width=\"600\" /><p>Foundry Lightweight Client (⚡FLC) — это минималистичный клиент для подключения к серверам Foundry на компьютерах с ограниченными ресурсами и слабой производительностью.</p><p>Клиент имеет всё необходимое для работы Foundry и ничего больше. Современные браузеры (Google Chrome, Microsoft Edge, Mozilla Firefox) переполнены огромным количеством трэкеров аналитики и опциональных модулей, не говоря уже о пользовательских расширениях. Запуск Foundry в них является не слишком оптимальным решением при ограниченных ресурсах.</p><p>FLC использует сверх-производительный бэкенд на Rust, написанный с нуля фронтенд на Svelte и браузерную оболочку на основе WebView2, которая и так всегда находится запущенной в виде процесса на Windows 10 и 11. Клиент занимает менее 3mb и потребляет на ~50% меньше RAM, чем Chrome с одной запущенной вкладкой Foundry.</p><p></p>",
         "markdown": ""
       },
       "video": {
@@ -222,6 +278,14 @@
         "core": {
           "sourceId": "JournalEntry.bOsOsDbqfulKICRQ.JournalEntryPage.SEXms9JAJWJsCj6g"
         }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -236,7 +300,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Прегены из <strong>Foundry VTT</strong></h2>\n<p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p>\n<table style=\"width:100%;height:17px\">\n<tbody>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/ClericDragonborn.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.fW3126eimgeLbvUL]{Акра} (Драконорождённый жрец)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/DruidStaff.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.WTsVFzcYiAxk1hau]{Аот} (Человек Друид)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/BardLute.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.iaGF7gRrNAkxsVew]{Бейро} (Полуэльф Бард)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/WizardTome.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.YJsaA9t3zgVnpk4W]{Занна} (Гном Волшебник)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/RangerBow.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.RDQSdxwn3PPJPVTq]{Квиллатэ} (Эльф Следопыт)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/PaladinSword.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.x9lbzltmCaAHz62D]{Краск} (Полуорк Паладин)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/BarbarianAxe.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.Ifkrm6WhfJaaKBuB]{Меррик} (Полурослик Варвар)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/SorcererTiefling.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.Hug3st7yPFgdMChB]{Мортос} (Тифлинг Чародей)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/MonkUnarmed.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.fiC6ZQ90HK0d8jvY]{Перрин} (Полурослик Монах)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/RogueHalfling.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.qoirSAaSAAnjwniT]{Рисвинн} (Дварф Плут)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/FighterShield.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.6Zv136bEOD6MeZZk]{Рэндал} (Человек Воин)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/WarlockStaff.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.AO6wqmIpI3GKnweV]{Сефрис} (Полуэльф Колдун)</td>\n</tr>\n</tbody>\n</table>\n<h2>Прегены из игры <strong>Baldur's Gate 3</strong></h2>\n<table style=\"width:100%;height:17px\">\n<tbody>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/astarion.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.5nKxPUxW3ZdPLMdm]{Астарион} Плут</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/gale.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.ZG6TUsRVppeENc4B]{Гейл} Волшебник</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/karlach.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.NwpSxUD11ads4Wrp]{Карлах} Варвар</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/laezel.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.lF8Ck2ko2BGLDYfu]{Лаэзель} Воин</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/shadowheart.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.WUbq56hkcAx5hFCk]{Шэдоухарт} Жрец</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/wyll.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.dV8MGtlMCsti4Z3S]{Уилл} Колдун</td>\n</tr>\n</tbody>\n</table>",
+        "content": "<h2>Прегены из <strong>Foundry VTT</strong></h2>\n<p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p>\n<table style=\"width:100%;height:17px\">\n<tbody>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/ClericDragonborn.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.fW3126eimgeLbvUL]{Акра} (Драконорождённый жрец)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/DruidStaff.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.WTsVFzcYiAxk1hau]{Аот} (Человек Друид)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/BardLute.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.iaGF7gRrNAkxsVew]{Бейро} (Полуэльф Бард)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/WizardTome.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.YJsaA9t3zgVnpk4W]{Занна} (Гном Волшебник)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/RangerBow.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.RDQSdxwn3PPJPVTq]{Квиллатэ} (Эльф Следопыт)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/PaladinSword.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.x9lbzltmCaAHz62D]{Краск} (Полуорк Паладин)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/BarbarianAxe.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.Ifkrm6WhfJaaKBuB]{Меррик} (Полурослик Варвар)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/SorcererTiefling.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.Hug3st7yPFgdMChB]{Мортос} (Тифлинг Чародей)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/MonkUnarmed.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.fiC6ZQ90HK0d8jvY]{Перрин} (Полурослик Монах)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/RogueHalfling.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.qoirSAaSAAnjwniT]{Рисвинн} (Дварф Плут)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/FighterShield.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.6Zv136bEOD6MeZZk]{Рэндал} (Человек Воин)</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"systems/dnd5e/tokens/heroes/WarlockStaff.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@UUID[Compendium.laaru-dnd5-hw.monsters.AO6wqmIpI3GKnweV]{Сефрис} (Полуэльф Колдун)</td>\n</tr>\n</tbody>\n</table>\n<h2>Прегены из игры <strong>Baldur's Gate 3</strong></h2>\n<table style=\"width:100%;height:17px\">\n<tbody>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/astarion.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.5nKxPUxW3ZdPLMdm]{Астарион} Плут</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/gale.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.ZG6TUsRVppeENc4B]{Гейл} Волшебник</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/karlach.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.NwpSxUD11ads4Wrp]{Карлах} Варвар</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/laezel.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.lF8Ck2ko2BGLDYfu]{Лаэзель} Воин</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/shadowheart.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.WUbq56hkcAx5hFCk]{Шэдоухарт} Жрец</td>\n</tr>\n<tr style=\"height:60px\">\n<td style=\"width:40%;height:60px\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/wyll.webp\" alt width=\"60\" height=\"60\" /></td>\n<td style=\"width:60%;height:60px\">@Compendium[laaru-dnd5-hw.monsters.dV8MGtlMCsti4Z3S]{Уилл} Колдун</td>\n</tr>\n</tbody>\n</table>",
         "markdown": ""
       },
       "video": {
@@ -248,7 +312,15 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
     },
     {
       "sort": 1000000,
@@ -278,6 +350,14 @@
         "core": {
           "sourceId": "JournalEntry.Ya1iBh75vCYmLVsl.JournalEntryPage.5vlELdCvPDLujok0"
         }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -308,24 +388,33 @@
         "core": {
           "sourceId": "JournalEntry.Ya1iBh75vCYmLVsl.JournalEntryPage.z3rfnY5tVhQEAqT6"
         }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     }
   ],
   "flags": {
     "core": {},
     "exportSource": {
-      "world": "predmety2",
+      "world": "udalenie",
       "system": "dnd5e",
-      "coreVersion": "10.303",
+      "coreVersion": "11.313",
       "systemVersion": "2.3.1"
     }
   },
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.3.1",
-    "coreVersion": "10.303",
+    "coreVersion": "11.313",
     "createdTime": 1671565169615,
-    "modifiedTime": 1696754573638,
-    "lastModifiedBy": "oGhen2rTWUG6zt4H"
-  }
+    "modifiedTime": 1697036078550,
+    "lastModifiedBy": "H9WsizrOeJscXSvG"
+  },
+  "folder": null
 }
