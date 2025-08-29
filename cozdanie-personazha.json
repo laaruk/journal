@@ -25,19 +25,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": 1756371236612,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -61,19 +58,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -97,19 +91,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -133,23 +124,20 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.Bn3a7yZSDL3Ebyxh.JournalEntryPage.0IG5ikYNB3fjP3kD"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": 1756375915003,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -173,19 +161,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -209,23 +194,20 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.X0rqakUz9f53vLwv.JournalEntryPage.Y1xiuSKCmOSEWLyX"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -249,23 +231,20 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.bOsOsDbqfulKICRQ.JournalEntryPage.SEXms9JAJWJsCj6g"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": 1756377432940,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -289,19 +268,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -325,23 +301,20 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.Ya1iBh75vCYmLVsl.JournalEntryPage.5vlELdCvPDLujok0"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": 1756375548101,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -365,23 +338,20 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.Ya1iBh75vCYmLVsl.JournalEntryPage.z3rfnY5tVhQEAqT6"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -405,19 +375,16 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": null,
+        "systemVersion": "5.1.2",
         "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     },
     {
@@ -431,7 +398,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Бард</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.0xtNgHu3sNwPjAo2.JournalEntryPage.HcjaBMOp1oibHFJ5]</p></details><h2>Волшебник</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FAQcdHUHuzDnACzv.JournalEntryPage.KGGROgBLfNz9TG07]</p></details><h2>Друид</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.lCYkxlFlkhxLEVLw.JournalEntryPage.d4oEMYrCFjHPK4gQ]</p></details><h2>Жрец</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.eW9JrercncRKlrgN.JournalEntryPage.nf0t6MJ3sozKOb1B]</p></details><h2>Изобретатель</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FiULx6TITbFSZV5H.JournalEntryPage.D6MkCDcLQTznWcyx]</p></details><h2>Колдун</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.DgROefUiG5ksXkfi.JournalEntryPage.Tj4WDlR23lFeqDIB]</p><p></p></details><h2>Паладин</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.87CT23KPpDRMdEft.JournalEntryPage.J8Hn1pJXYKmdX0v6]</p></details><h2>Следопыт</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.glQ4JnErUMIbcRm8.JournalEntryPage.UbcWYFZGqLYLqrOv]</p></details><h2>Чародей</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.jj3ixZhtsJUCHuc5.JournalEntryPage.xtC5ODlXTJeA7DK6]</p></details><hr /><h2>Следопыт альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.tiAhM0N4KVrLUHIm.JournalEntryPage.rvw2vOEcPE0BmNMB]</p></details><h2>Колдун альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.ESLU9S5giyTnhSKo.JournalEntryPage.Fb9egAUnq3cVrv19]</p></details><h2>Чародей альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.WAln89xNDd4oCaCT.JournalEntryPage.UM4O0xGQAC8HeAm7]</p></details><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><p>Если у вас не отображаются заклинания, воспользуйтесь <strong>Навигатором библиотеки</strong>, который позволяет отсортировать заклинания по школам, классам и прочему.</p></article></section>",
+        "content": "<section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><p>Если у вас не отображаются заклинания, воспользуйтесь <strong>Навигатором библиотеки</strong>, который позволяет отсортировать заклинания по школам, классам и прочему.</p></article></section><h2>Бард</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.0xtNgHu3sNwPjAo2.JournalEntryPage.HcjaBMOp1oibHFJ5]</p></details><h2>Волшебник</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FAQcdHUHuzDnACzv.JournalEntryPage.KGGROgBLfNz9TG07]</p></details><h2>Друид</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.lCYkxlFlkhxLEVLw.JournalEntryPage.d4oEMYrCFjHPK4gQ]</p></details><h2>Жрец</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.eW9JrercncRKlrgN.JournalEntryPage.nf0t6MJ3sozKOb1B]</p></details><h2>Изобретатель</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FiULx6TITbFSZV5H.JournalEntryPage.D6MkCDcLQTznWcyx]</p></details><h2>Колдун</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.DgROefUiG5ksXkfi.JournalEntryPage.Tj4WDlR23lFeqDIB]</p><p></p></details><h2>Паладин</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.87CT23KPpDRMdEft.JournalEntryPage.J8Hn1pJXYKmdX0v6]</p></details><h2>Следопыт</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.glQ4JnErUMIbcRm8.JournalEntryPage.UbcWYFZGqLYLqrOv]</p></details><h2>Чародей</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.jj3ixZhtsJUCHuc5.JournalEntryPage.xtC5ODlXTJeA7DK6]</p></details><hr /><h2>Следопыт альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.tiAhM0N4KVrLUHIm.JournalEntryPage.rvw2vOEcPE0BmNMB]</p></details><h2>Колдун альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.ESLU9S5giyTnhSKo.JournalEntryPage.Fb9egAUnq3cVrv19]</p></details><h2>Чародей альтернативный Llaserlama</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.WAln89xNDd4oCaCT.JournalEntryPage.UM4O0xGQAC8HeAm7]</p></details>",
         "markdown": ""
       },
       "video": {
@@ -440,26 +407,23 @@
       },
       "src": null,
       "system": {},
-      "ownership": {
-        "default": -1,
-        "vyWooFykk4nTWT2i": 3
-      },
       "flags": {
         "core": {
           "sourceId": "JournalEntry.twIEu1ROZk5LPTRg.JournalEntryPage.JJ2zTbe0q2Z9ljo3"
         }
       },
       "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": null,
-        "modifiedTime": 1756371076464,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": "OGAbjH8zLdq93HiO",
+        "modifiedTime": 1756461330693
       },
-      "_id": "k3Bf0Ks1UABf79Ml"
+      "_id": "k3Bf0Ks1UABf79Ml",
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
     },
     {
       "sort": 512500,
@@ -1355,40 +1319,40 @@
         "unlinkedSpells": [],
         "identifier": ""
       },
-      "ownership": {
-        "default": -1,
-        "vyWooFykk4nTWT2i": 3,
-        "Coecsj9e9a3zQNOP": 3
-      },
       "flags": {},
       "_stats": {
-        "compendiumSource": "Compendium.laaru-dnd5-hw.intro.JournalEntry.DOqmCWOj40GP6yBn.JournalEntryPage.SPxS1FpFCIGLHVXu",
-        "duplicateSource": null,
-        "coreVersion": "12.343",
+        "coreVersion": "13.348",
         "systemId": "dnd5e",
-        "systemVersion": "4.4.4",
-        "createdTime": 1756379652447,
-        "modifiedTime": 1756379694887,
-        "lastModifiedBy": "Coecsj9e9a3zQNOP"
+        "systemVersion": "5.1.2",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
       }
     }
   ],
   "flags": {
-    "core": {},
-    "exportSource": {
-      "world": "3-76",
-      "system": "dnd5e",
-      "coreVersion": "12.343",
-      "systemVersion": "4.4.4"
-    }
+    "core": {}
   },
   "_stats": {
-    "coreVersion": "12.343",
+    "coreVersion": "13.348",
     "systemId": "dnd5e",
-    "systemVersion": "4.4.4",
-    "createdTime": 1755771071893,
-    "modifiedTime": 1755771071893,
-    "lastModifiedBy": "Coecsj9e9a3zQNOP"
+    "systemVersion": "5.1.2",
+    "createdTime": 1756460727187,
+    "modifiedTime": 1756460727187,
+    "lastModifiedBy": "OGAbjH8zLdq93HiO",
+    "exportSource": {
+      "worldId": "22",
+      "uuid": "JournalEntry.BDnzr5s2WoAAyCrq",
+      "coreVersion": "13.348",
+      "systemId": "dnd5e",
+      "systemVersion": "5.1.2"
+    }
   },
-  "folder": null
+  "folder": null,
+  "categories": [],
+  "ownership": {
+    "default": 2
+  }
 }
